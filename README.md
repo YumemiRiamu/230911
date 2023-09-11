@@ -46,5 +46,7 @@ void CMFCApplication2Dlg::OnNMCustomdrawSlider1(NMHDR* pNMHDR, LRESULT* pResult)
 }
 ```
 
-실행 화면 
-
+실행 화면 </br>
+![초기](./초기.png)</br>
+![굵기](./굵기.png)</br>
+![색변경](./색변경.png)</br>
